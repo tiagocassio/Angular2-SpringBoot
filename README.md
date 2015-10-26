@@ -21,7 +21,7 @@ Create a new project in Webstorm 11 (pre-release) with the frontend folder as ro
 
 Go to `File->Settings` and configure the Typescript Compiler so that it uses the tsconfig.json file, enable the typescript compiler and track changes. Mark your `dist` folder as an excluded directory.
 
-You can right click your gulpfile.js and select `Show gulp tasks`. Run the `watch-resources` gulp task, this will track changes in html files and copy them to the `dist` folder. You can always do a clean build by running the `build` or `build-watch-resources` task.
+You can right click your gulpfile.js and select `Show gulp tasks`. Run the `watch-resources` gulp task: this will track changes in html files and copy them to the `dist` folder. You can always do a clean build by running the `build` or `build-watch-resources` task.
 
 Now you are ready to create Angular 2 applications and use your Spring Boot application to offer backend services at the same time.
 
