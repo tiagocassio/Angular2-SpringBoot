@@ -3,7 +3,7 @@ A quick starter project for angular 2, typescript &amp; spring boot for Java dev
 
 Global install
 - Install node.js
-- npm install typescript -g (installs the typescript compiler, now available as command `tsc`)
+- npm install typescript -g (installs the typescript compiler, from then on available as command `tsc`)
 - npm install gulp -g
 
 In frontend folder
