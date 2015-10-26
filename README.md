@@ -1,5 +1,5 @@
 # Angular2-SpringBoot
-A starter project for angular 2 &amp; Spring Boot for java developers.
+A quick starter project for angular 2 &amp; Spring Boot for Java developers.
 
 Quick start:
 
@@ -27,6 +27,6 @@ You can right click your gulpfile.js and select "Show gulp tasks". Run the "watc
 
 Now you are ready to create Angular 2 applications and use your Spring Boot application to offer backend services at the same time.
 
-For java developers not familiar with javascript & typescript development, a more detailed introduction can be found at
-[Angular2-Intro](../Angular2-Intro).
+For Java developers not familiar with javascript & typescript development, a more detailed introduction can be found at
+[Angular2-Intro](https://github.com/Krustie101/Angular2-Intro).
 
