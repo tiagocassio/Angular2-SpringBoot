@@ -1,5 +1,5 @@
 # Angular2-SpringBoot
-A quick starter project for angular 2 &amp; Spring Boot for Java developers.
+A quick starter project for angular 2, typescript &amp; spring boot for Java developers.
 
 Global install
 - Install node.js
