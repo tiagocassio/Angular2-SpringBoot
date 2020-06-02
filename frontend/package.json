@@ -16,7 +16,7 @@
   "dependencies": {
     "angular2": "2.0.0-alpha.44",
     "systemjs": "0.18.4",
-	"@reactivex/rxjs" : "5.0.0-alpha.6",
+	"@reactivex/rxjs" : "5.5.12",
     "bootstrap" : "^3.3.0",
     "jquery" : "^2.1.0"
   }
